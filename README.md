@@ -34,6 +34,27 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 * **What it is:** An AI model designed to analyze and classify complex microscopic imagery.
 * **The Engineering:** Architected to handle high-variance image datasets, utilizing advanced feature selection and deep learning principles to accurately categorize microorganisms.
 * [**[View Source Code]**](Link-to-your-Microscope-repo)
+  
+---
+
+### 🔮 The Long-Term Vision: AGI & Embodied Robotics
+While my current focus is on delivering highly optimized edge AI and mobile software, my overarching career trajectory is aimed at the physical deployment of Artificial General Intelligence (AGI). 
+
+My ultimate engineering goals include:
+* **Autonomous Humanoid Robotics:** Offloading repetitive, low-impact labor to physical agents so humans can dedicate their time to high-value, creative problem-solving.
+* **High-Stakes Precision Automation:** Deploying embodied AI in critical environments, from accelerating industrial manufacturing pipelines to assisting in long-duration, high-accuracy surgical procedures.
+* **True Machine Creativity:** Moving AI beyond the mere interpolation of past training data to architect systems capable of genuine, dynamic reasoning and novel creation.
+* **Active Human-Environment Interaction:** Building generalized intelligence that operates, learns, and adapts safely alongside humans in unpredictable, real-world physical spaces. 
+
+### 🔮 The Long-Term Vision: AGI, Robotics & Sustainable Transport
+While my current focus is on delivering highly optimized edge AI and mobile software, my overarching career trajectory is aimed at the physical deployment of Artificial General Intelligence (AGI). 
+
+My ultimate engineering goals include:
+* **Sustainable Autonomous Transport:** Engineering the software backbone (Computer Vision, local processing, UI) for electric, self-driving vehicles to reduce greenhouse gas emissions, eliminate noise pollution, and build the future of clean mobility.
+* **Autonomous Humanoid Robotics:** Offloading repetitive, low-impact labor to physical agents so humans can dedicate their time to high-value, creative problem-solving.
+* **High-Stakes Precision Automation:** Deploying embodied AI in critical environments, from accelerating industrial manufacturing pipelines to assisting in long-duration, high-accuracy surgical procedures.
+* **True Machine Creativity:** Moving AI beyond the mere interpolation of past training data to architect systems capable of genuine, dynamic reasoning and novel creation.
+* **Active Human-Environment Interaction:** Building generalized intelligence that operates, learns, and adapts safely alongside humans in unpredictable, real-world physical spaces.
 
 ---
 
