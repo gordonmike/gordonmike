@@ -2,7 +2,7 @@
 
 **AI Engineering Student | Android Developer | Tech Problem Solver**
 
-I am a software developer specializing in bringing **Machine Learning to the edge** (On-Device AI) and building **robust, offline-first Android applications**. I don't just write code; I engineer solutions that solve real-world latency, cost, and infrastructure problems for businesses and consumers.
+I am a software developer specializing in bringing **Machine Learning to the edge** (On-Device AI) and building **robust, offline-first Android applications**. I don't just write code; I engineer solutions alongside **Agentic AI**, utilizing autonomous agents within **Google Anti-Gravity** and **Android Studio** to architect complex systems, accelerate development, and solve real-world latency and infrastructure problems.
 
 📫 **Reach me at:** [YourEmail@gmail.com](mailto:YourEmail@gmail.com) | [LinkedIn](Link-to-your-LinkedIn) | [Upwork](Link-to-your-Upwork)
 
@@ -10,7 +10,7 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 
 ### 💻 Tech Stack & Arsenal
 * **Mobile & UI:** Kotlin, Jetpack Compose, MVVM Architecture, Room DB
-* **Artificial Intelligence:** TensorFlow Lite (On-Device ML), Python, CNNs, NLP, Deep Learning
+* **Artificial Intelligence:** TensorFlow Lite (On-Device ML), Python, CNNs, NLP, Deep Learning, Agentic AI Workflows
 * **Web & Systems:** Three.js (3D Rendering), SQL, Data Structures, MASM Assembly
 
 ---
