@@ -11,7 +11,7 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 ### 💻 Tech Stack & Arsenal
 * **Mobile & UI:** Kotlin, Jetpack Compose, MVVM Architecture, Room DB
 * **Artificial Intelligence:** TensorFlow Lite (On-Device ML), Python, CNNs, NLP, Deep Learning, Agentic AI Workflows
-* **Web & Systems:** Three.js (3D Rendering), SQL, Data Structures, MASM Assembly
+* **Systems:** SQL, Data Structures, MASM Assembly
 
 ---
 
