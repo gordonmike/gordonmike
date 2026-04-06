@@ -4,7 +4,7 @@
 
 I am a software developer specializing in bringing **Machine Learning to the edge** (On-Device AI) and building **robust, offline-first Android applications**. I don't just write code; I engineer solutions alongside **Agentic AI**, utilizing autonomous agents within **Google Anti-Gravity** and **Android Studio** to architect complex systems, accelerate development, and solve real-world latency and infrastructure problems.
 
-📫 **Reach me at:** [YourEmail@gmail.com](mailto:YourEmail@gmail.com) | [LinkedIn](Link-to-your-LinkedIn) | [Upwork](Link-to-your-Upwork)
+📫 **Reach me at:** [YourEmail@gmail.com](affankabir@gmail.com) | [LinkedIn](https://www.linkedin.com/in/affan-kabir-60a064337/) | [Upwork](https://www.upwork.com/freelancers/~013ec717e16fea6bf7)
 
 ---
 
