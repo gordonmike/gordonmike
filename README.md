@@ -15,13 +15,15 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 
 ---
 
+
 ### 🚀 Featured Engineering Projects
 
 #### 🐈 1. Felini: On-Device AI Audio Translator
 * **Tech:** Kotlin, Jetpack Compose, TensorFlow Lite, Python (Colab)
 * **What it is:** A consumer Android application that processes real-time microphone audio locally to classify animal vocalizations. 
 * **The Engineering:** Uses Transfer Learning (freezing a YAMNet base) to allow local model training directly on the user's phone processor, ensuring zero cloud latency and 100% data privacy.
-* [**[View Source Code & Demo]**](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9yZDdpbXJveG4wZHFudDRuamZ2em5taDdnOXY5ZGNjc2VqeGNkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/94sl2wlPibmJmBdSOQ/giphy.gif)
+
+![App Demo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9yZDdpbXJveG4wZHFudDRuamZ2em5taDdnOXY5ZGNjc2VqeGNkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/94sl2wlPibmJmBdSOQ/giphy.gif)
 
 #### 🛒 2. SmartRetail POS: Offline-First Billing App
 * **Tech:** Kotlin, Jetpack Compose, Room Database, Coroutines
