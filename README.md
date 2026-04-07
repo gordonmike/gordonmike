@@ -57,7 +57,7 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 <br>
 
 <p align="center">
-  <img src="Assets/mo%20class%20rp%20final%20upload.gif" width="200" />
+  <img src="Assets/mo%20class%20rp%20final%20upload.gif" width="500" />
 </p>
 
 <br>
