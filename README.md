@@ -66,7 +66,7 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 ---
 
 ### 🔮 The Long-Term Vision: AGI & Embodied Robotics
-While my current focus is on delivering highly optimized edge AI and mobile software, my overarching career trajectory is aimed at the physical deployment of Artificial General Intelligence (AGI). 
+While my current focus is on delivering highly optimized edge AI and mobile software, my overarching career trajectory is aimed at the physical deployment of **Regulated** Artificial General Intelligence (AGI). 
 
 My ultimate engineering goals include:
 * **Autonomous Humanoid Robotics:** Offloading repetitive, low-impact labor to physical agents so humans can dedicate their time to high-value, creative problem-solving.
