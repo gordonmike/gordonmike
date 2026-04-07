@@ -73,14 +73,7 @@ My ultimate engineering goals include:
 * **High-Stakes Precision Automation:** Deploying embodied AI in critical environments, from accelerating industrial manufacturing pipelines to assisting in long-duration, high-accuracy surgical procedures.
 * **True Machine Creativity:** Moving AI beyond the mere interpolation of past training data to architect systems capable of genuine, dynamic reasoning and novel creation.
 * **Active Human-Environment Interaction:** Building generalized intelligence that operates, learns, and adapts safely alongside humans in unpredictable, real-world physical spaces. 
-
-### 🔮 Sustainable Transport
-
 * **Sustainable Autonomous Transport:** Engineering the software backbone (Computer Vision, local processing, UI) for electric, self-driving vehicles to reduce greenhouse gas emissions, eliminate noise pollution, and build the future of clean mobility.
-* **Autonomous Humanoid Robotics:** Offloading repetitive, low-impact labor to physical agents so humans can dedicate their time to high-value, creative problem-solving.
-* **High-Stakes Precision Automation:** Deploying embodied AI in critical environments, from accelerating industrial manufacturing pipelines to assisting in long-duration, high-accuracy surgical procedures.
-* **True Machine Creativity:** Moving AI beyond the mere interpolation of past training data to architect systems capable of genuine, dynamic reasoning and novel creation.
-* **Active Human-Environment Interaction:** Building generalized intelligence that operates, learns, and adapts safely alongside humans in unpredictable, real-world physical spaces.
 
 ---
 
