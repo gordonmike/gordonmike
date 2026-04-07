@@ -52,7 +52,7 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 * **Tech:** Python, Deep Learning, CNN Architecture
 * **What it is:** An AI model designed to analyze and classify complex microscopic imagery.
 * **The Engineering:** Architected to handle high-variance image datasets, utilizing advanced feature selection and deep learning principles to accurately categorize microorganisms.
-
+* [**[Read Published Paper on ResearchGate]**](https://www.researchgate.net/publication/398931282_Microorganism_Classification_using_Ensemble_Deep_Learning_A_ConvNeXt_and_InceptionV3_Approach)
 
 <br>
 
