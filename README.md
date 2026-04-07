@@ -24,7 +24,6 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 * **The Engineering:** Uses Transfer Learning (freezing a YAMNet base) to allow local model training directly on the user's phone processor, ensuring zero cloud latency and 100% data privacy.
 
 
-
 <br>
 
 <p align="center">
@@ -32,7 +31,6 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 </p>
 
 <br>
-
 
 
 #### 🛒 2. SmartRetail POS: Offline-First Billing App
@@ -54,7 +52,16 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 * **Tech:** Python, Deep Learning, CNN Architecture
 * **What it is:** An AI model designed to analyze and classify complex microscopic imagery.
 * **The Engineering:** Architected to handle high-variance image datasets, utilizing advanced feature selection and deep learning principles to accurately categorize microorganisms.
-* [**[View Source Code]**](Link-to-your-Microscope-repo)
+
+
+<br>
+
+<p align="center">
+  <img src="Assets/mo%20class%20rp%20final%20upload.gif" width="200" />
+</p>
+
+<br>
+
   
 ---
 
