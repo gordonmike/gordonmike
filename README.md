@@ -78,4 +78,4 @@ My ultimate engineering goals include:
 ---
 
 ### ⚡ Let's Collaborate
-I am currently open for freelance opportunities and project bounties. If you need a custom Android application, an offline database system integrated, or a machine learning model optimized for mobile devices, shoot me a message.
+I am currently open for freelance opportunities and project bounties. If you need a custom Android application, an offline database system integrated, or a machine learning model optimized for mobile devices, or just need help in something, shoot me a message.
