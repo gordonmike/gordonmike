@@ -25,7 +25,11 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 
 
 
-![App Demo](Assets/finaluploadcatgif2.gif)
+<br>
+
+<img src="Assets/finaluploadcatgif2.gif" width="200" />
+
+<br>
 
 
 
