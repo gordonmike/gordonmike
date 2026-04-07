@@ -27,7 +27,9 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 
 <br>
 
-<img src="Assets/finaluploadcatgif2.gif" width="200" />
+<p align="center">
+  <img src="Assets/finaluploadcatgif2.gif" width="200" />
+</p>
 
 <br>
 
@@ -37,7 +39,16 @@ I am a software developer specializing in bringing **Machine Learning to the edg
 * **Tech:** Kotlin, Jetpack Compose, Room Database, Coroutines
 * **What it is:** A lightning-fast, zero-cloud Android POS system engineered for local retail shops and pharmacies.
 * **The Engineering:** Completely cuts out AWS/Firebase server costs by utilizing a highly optimized local Room database, solving the internet-dependency problem for small businesses.
-* [**[View Source Code & Demo]**](Link-to-your-Billing-repo)
+
+
+<br>
+
+<p align="center">
+  <img src="Assets/pos%20app%20final%20compress.gif" width="200" />
+</p>
+
+<br>
+
 
 #### 🔬 3. Microorganism Classification via Microscope Image Analysis
 * **Tech:** Python, Deep Learning, CNN Architecture
